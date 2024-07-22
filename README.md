@@ -1,5 +1,9 @@
 # Facebook-s-Prophet-used-to-to-Salvage-RTC-study
 
+link to Colab: https://github.com/AniaSupady/Facebook-s-Prophet-used-to-to-Salvage-RTC-study/blob/main/Using_Facebook's_Prophet_for_Forecasting_Missing_Control_Group_Response.ipynb   
+
+
+
 Methods to Salvage the Study
 
 In the context of a randomized controlled trial (RTC), encountering a failure to produce a control group can pose significant challenges. However, there are innovative methods to salvage such studies by leveraging auxiliary data, such as temperature trends, to extrapolate a potential energy usage profile for the control group.
