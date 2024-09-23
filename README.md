@@ -1,6 +1,6 @@
 # Facebook-s-Prophet-used-to-to-Salvage-RTC-study
 
-link to Colab: https://github.com/AniaSupady/Facebook-s-Prophet-used-to-to-Salvage-RTC-study/blob/main/Using_Facebook's_Prophet_for_Forecasting_Missing_Control_Group_Response.ipynb   
+link to Colab: https://github.com/AniaSupady/Facebook-s-Prophet-used-to-to-Salvage-RTC-study/blob/main/Using_Facebook's_Prophet_for_Forecasting_Missing_Control_Group_Response_.ipynb   
 
 
 
